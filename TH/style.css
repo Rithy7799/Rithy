@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(245, 245, 245);
+}
+.cover {
+    background-color:#090C9B ;
+}
+.navbar {
+    height: 70px;
+}
+.displaylabel h2 {
+    text-align: center;
+}
